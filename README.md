@@ -24,10 +24,6 @@
 <img alt="Git" width="30px" src="/icons/git.png"/>|<img alt="VSCode" width="30px" src="/icons/vscode.png"/>|
  |--|--|
 
- **Connect with Me**
----
-[<img align="left" alt="Instagram" width="30px" src="/icons/instagram.png" />](https://www.instagram.com/jasmeet_rubal9973) [<img align="left" alt="Email" width="30px" src="/icons/gmail.png" />]
-
 
 
 
