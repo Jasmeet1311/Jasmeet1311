@@ -17,7 +17,18 @@
 **Languages**
  
 <img alt="Python" width="30px" src="/icons/python.png"/>|<img alt="C" width="30px" src="/icons/c-programming.png"/>|<img alt="C++" width="30px" src="/icons/c++.png"/>|<img alt="Java" width="30px" src="/icons/java.png"/>|<img alt="HTML" width="30px" src="/icons/html.png"/>|<img alt="CSS" width="30px" src="/icons/css-3.png"/>|<img alt="JavaScript" width="30px" src="/icons/javascript.png"/>
- |--|--|--|--|--|--|--|
+|--|--|--|--|--|--|--|
+
+ **Tools**
+ 
+<img alt="Git" width="30px" src="/icons/git.png"/>|<img alt="VSCode" width="30px" src="/icons/vscode.png"/>|
+ |--|--|
+
+ **Connect with Me**
+---
+[<img align="left" alt="Instagram" width="30px" src="/icons/instagram.png" />](https://www.instagram.com/jasmeet_rubal9973) [<img align="left" alt="Email -Rohan Das" width="30px" src="/icons/gmail.png" />](mailto:jasmeet13112001@gmail.com)
+
+
 
 
 
