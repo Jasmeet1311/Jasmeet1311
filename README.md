@@ -14,4 +14,10 @@
 
  ## My Skills <img alt="Computer" width="40px" src="https://clipart-library.com/images/8iA6EpegT.png"/>
 
+**Languages**
+ 
+<img alt="Python" width="30px" src="/icons/python.png"/>|<img alt="C" width="30px" src="/icons/c-programming.png"/>|<img alt="C++" width="30px" src="/icons/c++.png"/>|<img alt="Java" width="30px" src="/icons/java.png"/>|<img alt="HTML" width="30px" src="/icons/html.png"/>|<img alt="CSS" width="30px" src="/icons/css-3.png"/>|<img alt="JavaScript" width="30px" src="/icons/javascript.png"/>
+ |--|--|--|--|--|--|--|
+
+
 
