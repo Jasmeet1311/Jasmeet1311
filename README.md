@@ -26,7 +26,7 @@
 
  **Connect with Me**
 ---
-[<img align="left" alt="Instagram" width="30px" src="/icons/instagram.png" />](https://www.instagram.com/jasmeet_rubal9973) [<img align="left" alt="Email -Rohan Das" width="30px" src="/icons/gmail.png" />](mailto:jasmeet13112001@gmail.com)
+[<img align="left" alt="Instagram" width="30px" src="/icons/instagram.png" />](https://www.instagram.com/jasmeet_rubal9973) [<img align="left" alt="Email" width="30px" src="/icons/gmail.png" />](jasmeet13112001@gmail.com)
 
 
 
