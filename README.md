@@ -21,8 +21,8 @@
 
  **Tools**
  
-<img alt="Git" width="30px" src="/icons/git.png"/>|<img alt="VSCode" width="30px" src="/icons/vscode.png"/>|<img alt="Pycharm" width="30px" src="https://tse2.mm.bing.net/th?id=OIP.7XllGDGH5IgtyUx1MIK_kgHaHa&pid=Api&P=0&h=180"/>|<img alt="Git" width="30px" src="/icons/github-desktop.ico"/>
- |--|--|--|--|
+<img alt="Git" width="30px" src="/icons/git.png"/>|<img alt="VSCode" width="30px" src="/icons/vscode.png"/>|<img alt="Git" width="30px" src="/icons/github-desktop.ico"/>
+ |--|--|--|
 
 **Frameworks**
 <img alt="Bootstrap" width="30px" src="/icons/bootstrap-logo.png"/>|<img alt="React" width="30px" src="/icons/react-logo.png"/>|
